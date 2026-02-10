@@ -75,7 +75,21 @@ The hackathon repo itself stands as a testament to the power of version control 
 
 | Hackathon Crowd | Winners Podium | Mentoring Session |
 | :---: | :---: | :---: |
-| ![Crowd](https://drive.google.com/uc?export=view&id=1LlibpAbe1qt_grokZTuQuKJWVpY4UBvc) | ![Podium](https://drive.google.com/uc?export=view&id=1mI5GySEEW79SefZ3jxdMtfoxP7tQbreC) | ![Mentoring](https://drive.google.com/uc?export=view&id=1eyekTSWLUq0VEYU3UDcqq78z432RfeXM) |
+| ![Crowd](./images/crowd.JPG) | ![Podium](./images/winners.jpeg) | ![Mentoring](./images/mentor1.JPG) |
+
+Additional moments from the hackathon:
+
+| IMG_5962 | IMG_6065 | IMG_6086 |
+| :---: | :---: | :---: |
+| ![IMG_5962](./images/IMG_5962.JPG) | ![IMG_6065](./images/IMG_6065.JPG) | ![IMG_6086](./images/IMG_6086.JPG) |
+
+| IMG_6093 | IMG_6195 | IMG_6200 |
+| :---: | :---: | :---: |
+| ![IMG_6093](./images/IMG_6093.JPG) | ![IMG_6195](./images/IMG_6195.JPG) | ![IMG_6200](./images/IMG_6200.JPG) |
+
+| IMG_6203 | IMG_6483 |
+| :---: | :---: |
+| ![IMG_6203](./images/IMG_6203.JPG) | ![IMG_6483](./images/IMG_6483.JPG) |
 
 ---
 
